@@ -1,2 +1,2 @@
 # Drowsiness-Detection-
-Drowsiness Alert Using OpenCV, Dlib and Python Libraries
+Drowsiness Alert Using OpenCV, Dlib and Python Libraries.
